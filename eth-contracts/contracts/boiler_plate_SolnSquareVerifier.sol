@@ -1,11 +1,10 @@
 pragma solidity >=0.4.21 <0.6.0;
 
-// import openZeppelin ERC721 Enumerable
-// import openZeppelin ERC721 Metadata
+// import './ERC721Mintable.sol';
 
 
 
-// define a contract named SolnSquareVerifier that uses ERC721Enumerable and ERC721Metadata
+// define a contract named SolnSquareVerifier that inherits ERC721Mintable
 
 
 
