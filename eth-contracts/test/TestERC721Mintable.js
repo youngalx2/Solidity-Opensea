@@ -20,12 +20,12 @@ contract('TestERC721Mintable', accounts => {
             
         })
 
-        // token uri should be complete i.e: https://api.cryptokitties.co/kitties/1
+        // token uri should be complete i.e: https://s3-us-west-2.amazonaws.com/udacity-blockchain/capstone/1
         it('should return token uri', async function () { 
             
         })
 
-        it('should safe transfer token from one owner to another', async function () { 
+        it('should transfer token from one owner to another', async function () { 
             
         })
     });
